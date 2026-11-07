@@ -12,6 +12,7 @@
   "dependencies": {
     "@alptugidin/react-circular-progress-bar": "^1.1.4",
     "@reduxjs/toolkit": "^2.13.0",
+    "@tailwindcss/vite": "^4.3.5",
     "axios": "^1.20.0",
     "crypto": "^1.0.1",
     "firebase": "^13.1.0",
@@ -26,7 +27,8 @@
     "react-redux": "^9.3.0",
     "react-router-dom": "^7.18.4",
     "rechart": "^0.0.1",
-    "recharts": "^3.10.1"
+    "recharts": "^3.10.1",
+    "tailwindcss": "^4.3.5"
   },
   "devDependencies": {
     "@types/react": "^19.3.0",
